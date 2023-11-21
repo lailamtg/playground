@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d70d6e4-4f8a-41f3-9953-8ba000e9bcfc" name="Changes" comment="first Draft" />
+    <list default="true" id="6d70d6e4-4f8a-41f3-9953-8ba000e9bcfc" name="Changes" comment="first Draft">
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AirQualityInfo/AirQualityInfo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/AirQualityInfo/AirQualityInfo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AirQualityInfo/stylesAirQualityInfo.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CurrentForecast/CurrentForecast.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/CurrentForecast/CurrentForecast.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,8 +26,10 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
       <RecentBranches>
         <option name="branchesForRepo">
@@ -69,7 +77,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/gassoula/Desktop/Playground",
+    "last_opened_file_path": "C:/Users/gassoula/Desktop/Playground/playground",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -118,6 +126,8 @@
       <workItem from="1700561852815" duration="154000" />
       <workItem from="1700562149119" duration="2638000" />
       <workItem from="1700565252315" duration="1184000" />
+      <workItem from="1700567223966" duration="4201000" />
+      <workItem from="1700571778545" duration="330000" />
     </task>
     <task id="LOCAL-00001" summary="first Draft">
       <created>1700565704330</created>
